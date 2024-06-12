@@ -25,8 +25,8 @@ Clone the repository:
   
 If you prefer to compile the `combined.cpp` file directly, you can use the following commands:
 - `g++ -std=c++20 -Wall -pedantic -g -o excel combined.cpp -L . -l expression_parser`
-- `./excel`
-This will compile and run the `combined.cpp` file.
+- `./excel`  
+- This will compile and run the `combined.cpp` file.
 - You can generate the `combined.cpp` file by running the `makeone.py` script❗
 
 ### 🧪 Running Tests

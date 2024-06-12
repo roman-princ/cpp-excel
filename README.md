@@ -1,4 +1,4 @@
-# 📊 FIT Excel
+# 📊 Excel
 
 This project provides a C++ implementation for handling Excel-like spreadsheets. The repository includes source files, build scripts, and test cases to facilitate development and testing.
 
@@ -27,7 +27,7 @@ If you prefer to compile the `combined.cpp` file directly, you can use the follo
 - `g++ -std=c++20 -Wall -pedantic -g -o excel combined.cpp -L . -l expression_parser`
 - `./excel`  
 - This will compile and run the `combined.cpp` file.
-- You can generate the `combined.cpp` file by running the `makeone.py` script❗
+- You can generate the `combined.cpp` file by running the `makeone.py` script ❗
 
 ### 🧪 Running Tests
 
